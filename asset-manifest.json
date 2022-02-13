@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sunrise-sunset/static/css/main.925f2e70.css",
+    "main.js": "/sunrise-sunset/static/js/main.2dc55a29.js",
+    "index.html": "/sunrise-sunset/index.html",
+    "main.925f2e70.css.map": "/sunrise-sunset/static/css/main.925f2e70.css.map",
+    "main.2dc55a29.js.map": "/sunrise-sunset/static/js/main.2dc55a29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.925f2e70.css",
+    "static/js/main.2dc55a29.js"
+  ]
+}
