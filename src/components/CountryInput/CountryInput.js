@@ -17,7 +17,7 @@ import {
 
 import { PlacePicker } from "../PlacePicker/PlacePicker";
 
-export const CountryInput = ({ countriesList, country, setCountry }) => {
+export const CountryInput = ({ country, setCountry }) => {
   const [countryInput, setCountryInput] = useState("");
   const [showPlacePicker, setShowPlacePicker] = useState(false);
   const [parentRef, isClickedOutside] = useClickOutside();
@@ -79,7 +79,6 @@ export const CountryInput = ({ countriesList, country, setCountry }) => {
 
       {showPlacePicker && (
         <PlacePicker
-          countriesList={countriesList}
           searchInput={countryInput}
           callback={handlePlacePickerClick}
         />

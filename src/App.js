@@ -67,11 +67,7 @@ function App() {
     <Card>
       <SearchFields>
         <DateInput date={date} setDate={setDate} />
-        <CountryInput
-          countriesList={COUNTRIES}
-          country={country}
-          setCountry={setCountry}
-        />
+        <CountryInput country={country} setCountry={setCountry} />
       </SearchFields>
 
       <Button onClick={handleShowButtonClick} disabled={isButtonDisabled}>
