@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/sunrise-sunset/static/css/main.be33d15a.css",
-    "main.js": "/sunrise-sunset/static/js/main.41f413ec.js",
+    "main.js": "/sunrise-sunset/static/js/main.41f28adb.js",
     "index.html": "/sunrise-sunset/index.html",
     "main.be33d15a.css.map": "/sunrise-sunset/static/css/main.be33d15a.css.map",
-    "main.41f413ec.js.map": "/sunrise-sunset/static/js/main.41f413ec.js.map"
+    "main.41f28adb.js.map": "/sunrise-sunset/static/js/main.41f28adb.js.map"
   },
   "entrypoints": [
     "static/css/main.be33d15a.css",
-    "static/js/main.41f413ec.js"
+    "static/js/main.41f28adb.js"
   ]
 }
